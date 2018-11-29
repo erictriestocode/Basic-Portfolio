@@ -1,3 +1,32 @@
 html {
-    background-color: blue;
+    background-image: url("images/whirlpool.png");
+}
+
+.header{
+    border: 2px;
+    padding: 10px
+}
+
+.name {
+
+}
+
+.navbar {
+    
+}
+
+.about {
+
+}
+
+.portfolio {
+
+}
+
+.contact {
+
+}
+
+.content {
+    width: 960px;
 }
